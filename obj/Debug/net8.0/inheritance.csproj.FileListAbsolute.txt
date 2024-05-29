@@ -1,0 +1,14 @@
+C:\Users\ELDAR\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\ELDAR\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\ELDAR\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\ELDAR\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\ELDAR\source\repos\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\ELDAR\source\repos\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
